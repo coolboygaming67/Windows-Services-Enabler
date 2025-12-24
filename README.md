@@ -19,7 +19,4 @@ Windows services that are sometimes disabled by tweaks, debloat tools, or miscon
 
 ## How to Run
 
-1. Open PowerShell **as Administrator**
-2. Allow script execution (temporary):
-   ```powershell
-   Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+- Just run the .bat file in Administrator mode.
